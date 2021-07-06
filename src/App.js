@@ -20,7 +20,7 @@ function fetchMoviesHandler() {
     });
     setMovies(transformedMovies);
   });
-}
+};
 
   return (
     <React.Fragment>
